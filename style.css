@@ -1,0 +1,45 @@
+header{
+    margin-top: 70px;
+}
+main .container{
+    width: 400px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 20px 0px rgb(231, 219, 219) inset;
+}
+.row{
+    padding: 0px 20px 20px 20px;
+}
+.displayer{
+    padding: 20px;
+}
+.displayer input{
+    width: 100%;
+    height: 60px;
+    border-radius: 15px;
+    background-color: #bccd95;
+    border: 1px solid rgb(159, 159, 159);
+    font-size: 24px;
+    text-align: right;
+}
+#calc-btns{
+    padding-bottom: 10px;
+}
+
+main .clac-btn{
+    height: 60px;
+    width: 80px;
+    margin: 0 5px;
+    border: 1px solid rgb(230, 226, 226);
+    box-shadow: 2px 2px 2px 0px gray;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 340;
+    font-size: 30px;
+    color: rgb(77, 69, 69);           
+}
+footer{
+    margin-top: 70px;
+    text-align: center;
+}
