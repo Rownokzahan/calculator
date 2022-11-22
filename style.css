@@ -1,8 +1,8 @@
 header{
-    margin-top: 70px;
+    margin-top: 50px;
 }
 main .container{
-    width: 400px;
+    width: 360px;
     border-radius: 15px;
     box-shadow: 0px 0px 20px 0px rgb(231, 219, 219) inset;
 }
@@ -26,8 +26,7 @@ main .container{
 }
 
 main .clac-btn{
-    height: 60px;
-    width: 80px;
+    width: 70px;
     margin: 0 5px;
     border: 1px solid rgb(230, 226, 226);
     box-shadow: 2px 2px 2px 0px gray;
@@ -40,6 +39,9 @@ main .clac-btn{
     color: rgb(77, 69, 69);           
 }
 footer{
-    margin-top: 70px;
+    position: absolute;
+    bottom: 0;
     text-align: center;
+    width: 100%;
+    font-size: 12px;
 }
